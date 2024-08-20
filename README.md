@@ -1,1 +1,2 @@
-# plot_wavfile
+# Waves Album Club 
+Wrapped - Season 1
